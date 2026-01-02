@@ -4,14 +4,16 @@
 A curated, evolving **atlas of AI system design patterns**—focused on **how to think about architecture and trade-offs**, not on implementation recipes or prescriptive solutions.
 
 This repository is a **thinking artifact**.  
-It captures system-level reasoning that sits between research ideas and real-world AI systems.
+It captures the system-level reasoning that shapes AI products long before code is written.
 
 ---
 
 **Author — Aditi Khare**  
 Writing on AI research, product thinking, and system architecture  
-🔗 Website: https://aditikhare.com  
-🤗 Hugging Face Demo: https://huggingface.co/spaces/aditikhare007/ai-system-design-atlas  
+
+🔗 **Website:** [aditikhare.com](https://aditikhare.com)  
+🤗 **Live Demo:** [Explore on Hugging Face](https://huggingface.co/spaces/aditikhare007/ai-system-design-atlas)  
+🧠 **Related Work:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)
 
 ⭐ If this repository helps you reason more clearly about AI systems, consider starring it.
 
