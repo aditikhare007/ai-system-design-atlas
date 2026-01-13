@@ -11,9 +11,10 @@ It captures the system-level reasoning that shapes AI products long before code 
 **Author — Aditi Khare**  
 Writing on AI research, product thinking, and system architecture  
 
-🔗 **Website:** [aditikhare.com](https://aditikhare.com)  
-🤗 **Live Demo:** [Explore on Hugging Face](https://huggingface.co/spaces/aditikhare007/ai-system-design-atlas)  
-🧠 **Related Work:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 [GitHub](https://github.com/aditikhare007/ai-system-design-atlas)
+🤗 [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 
 ⭐ If this repository helps you reason more clearly about AI systems, consider starring it.
 
@@ -126,6 +127,8 @@ diagrams/    → High-level system flow illustrations
 🧠 Final Note
 
 AI systems are designed long before they are implemented.
+
+© 2026 Aditi Khare. All rights reserved.
 
 This atlas captures that pre-implementation thinking layer—
 where architecture, constraints, and trade-offs quietly determine outcomes.
