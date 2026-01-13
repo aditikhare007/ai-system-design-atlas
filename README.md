@@ -12,8 +12,8 @@ It captures the system-level reasoning that shapes AI products long before code 
 Writing on AI research, product thinking, and system architecture  
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 [GitHub](https://github.com/aditikhare007/ai-system-design-atlas)
-🤗 [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)
+🔗 **GitHub Repository:** [AI System Design Atlas](https://github.com/aditikhare007/ai-system-design-atlas)
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)
 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 
 ⭐ If this repository helps you reason more clearly about AI systems, consider starring it.
