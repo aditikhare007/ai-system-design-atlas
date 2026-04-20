@@ -9,7 +9,7 @@ It captures the system-level reasoning that shapes AI products long before code 
 ---
 
 **Author — Aditi Khare**  
-Enterprise AI Product, Platform & Applied Research Leader
+Enterprise AI Product, Platform & Applied Research Leader —
 Writing on AI research, product thinking, and system architecture  
 
 ## 🌐 Presence  
