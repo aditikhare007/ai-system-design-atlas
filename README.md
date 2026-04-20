@@ -14,11 +14,11 @@ Writing on AI research, product thinking, and system architecture
 
 ## 🌐 Presence  
 
-🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 **GitHub Repository:** [AI System Design Atlas](https://github.com/aditikhare007/ai-system-design-atlas)
-🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
-
+- 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+- 🔗 **GitHub Repository:** [AI System Design Atlas](https://github.com/aditikhare007/ai-system-design-atlas)  
+- 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)  
+- 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)
+  
 ⭐ If this repository helps you reason more clearly about AI systems, consider starring it.
 
 ---
